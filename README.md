@@ -1,2 +1,2 @@
 # RetrofitOfflineCachingDemo
-此是为了展示retrofit离线缓存的实现。
+此demo展示了retrofit离线缓存的实现。
